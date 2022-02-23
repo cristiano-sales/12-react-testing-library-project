@@ -30,7 +30,7 @@ describe('Testa o componente About.js', () => {
 
   test('A página contém determinada imagem de uma Pokédex', () => {
     renderWithRouter(<About />);
-    const imageAbout = screen.getByRole('img', { name: /Pokédex/i });
+    const imageAbout = screen.getByRole('img', { name: /Pokédex/i }); // Onde name é o alt da imagem
     expect(imageAbout).toHaveAttribute('src', 'https://cdn2.bulbagarden.net/upload/thumb/8/86/Gen_I_Pok%C3%A9dex.png/800px-Gen_I_Pok%C3%A9dex.png');
   });
 });
