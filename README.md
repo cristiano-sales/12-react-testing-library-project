@@ -1,16 +1,5 @@
-# 🚧 README em construção 🚧
+# Front-end
 
-<!-- Olá, Tryber!
+# Fevereiro de 2022
 
-Esse é apenas um arquivo inicial para o README do seu projeto.
-
-É essencial que você preencha esse documento por conta própria, ok?
-
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
-
--->
+# Desenvolvido principalmente os teste em src. Ademais, tal como components e services em src, bem como as configurações de lint e babel foram dados pela Trybe.
